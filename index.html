@@ -5,7 +5,8 @@
 		<script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
 		<script src="Javascript/BafinDownload.js"></script>
 		<script src="Javascript/BafinXLSXeingabe.js"></script>
-		<link rel="stylesheet" type="text/css" href="CSS/style.css">
+    <script src="script.js"></script>
+		<link rel="stylesheet" type="text/css" href="CSS/Bafintabelle.css">
 	  </head>
 	  
 <body>
@@ -17,10 +18,24 @@
   <a id="csvDownloadLink" style="display:none"></a>
   <button onclick="showPrevRows()">Vorherige 2 Zeilen</button>
   <button onclick="showNextRows()">Nächsten 2 Zeilen</button>
-  
-
-
-
+  <h1>Meine Tabelle</h1>
+	<form>
+		<label for="date">Datum:</label>
+		<input type="date" id="date" name="date"><br><br>
+		<label for="amount">Betrag:</label>
+		<input type="number" id="amount" name="amount"><br><br>
+		<input type="button" value="Hinzufügen" onclick="addRow()">
+		<input type="button" value="Tabelle leeren" onclick="clearTable()">
+	</form>
+	<br>
+	<table id="myTable">
+		<tr>
+			<th>Datum</th>
+			<th>Betrag</th>
+			<th></th>
+		</tr>
+	</table>
+  <script src="Javascript/Einzahlungstabelle.js"></script> 
 </body>
 </html>
 
