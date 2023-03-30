@@ -1,11 +1,26 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <script src="script.js"></script>
-</head>
+	<head>
+		<title>Excel-Datei als Tabelle anzeigen und CSV herunterladen</title>
+		<script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+		<script src="Javascript/BafinDownload.js"></script>
+		<script src="Javascript/BafinXLSXeingabe.js"></script>
+		<link rel="stylesheet" type="text/css" href="CSS/style.css">
+	  </head>
+	  
 <body>
-    <h1>Bafin-Download</h1>
-    <button onclick="downloadCSV()">Download CSV</button>
-    <a id="csvDownloadLink" style="display:none"></a>
+
+  <h1>Excel-Datei als Tabelle anzeigen und CSV herunterladen</h1>
+  <input type="file" onchange="handleFileSelect(event)">
+  <div id="table-container"></div>
+  <button onclick="downloadCSV()">Download CSV</button>
+  <a id="csvDownloadLink" style="display:none"></a>
+  <button onclick="showPrevRows()">Vorherige 2 Zeilen</button>
+  <button onclick="showNextRows()">Test</button>
+  
+
+
+
 </body>
 </html>
+
