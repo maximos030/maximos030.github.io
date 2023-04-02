@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Reddit API Beispiel</title>
-</head>
-<body>
-    <table>
-        <thead>
-            <tr>
-                <th>Symbol</th>
-                <th>Name</th>
-                <th>Preis</th>
-                <th>Änderung</th>
-            </tr>
-        </thead>
-        <tbody id="comments"></tbody>
-    </table>
-
-    <script>
         // Definieren des Benutzernamens
         const username = "MSWKN";
         
@@ -59,6 +40,3 @@
                 }
             })
             .catch(error => console.error(error));
-    </script>
-</body>
-</html>

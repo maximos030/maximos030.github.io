@@ -11,33 +11,77 @@
 
 <body>
 
-    <label for="geldkurs">Geldkurs:</label>
-    <input type="number" id="geldkurs"><br><br>
-    <label for="briefkurs">Briefkurs:</label>
-    <input type="number" id="briefkurs"><br><br>
-    <button onclick="berechneSpread()">Spread berechnen</button>
-    <br>
-    <br>
-    <p id="spread_euro"></p>
-    <p id="spread_prozent"></p>
+    <header>
+        <h1>Grill Royal oder Clash Royal</h1>
+        <div class="logo">
+          <img src="704x396.jpg" alt="Logo">
+        </div>
+        <nav>
+          <ul>
+            <li><a href="#">Startseite</a></li>
+            <li><a href="#">Über uns</a></li>
+            <li><a href="#">Kontakt</a></li>
+          </ul>
+        </nav>
+      </header>
+      
 
+    <div class="container">
+        <div class="box">
+            <h2>Spread-Rechner</h2>
+            <form>
+                <label for="geldkurs">Geldkurs:</label>
+                <input type="number" id="geldkurs">
+                <br>
+                <br>
+                <label for="briefkurs">Briefkurs:</label>
+                <input type="number" id="briefkurs">
+                <br>
+                <button onclick="berechneSpread()">Spread berechnen</button>
+            </form>
+            <p id="spread_euro"></p>
+            <p id="spread_prozent"></p>
+        </div>
 
-    <button onclick="downloadCSV()">Download CSV BafinInsider</button>
-    <a id="csvDownloadLink" style="display:none;"></a>
-    <br>
-    <br>
-    <label for="notiz">Notiz:</label>
-    <br>
-    <textarea id="notiz" rows="4" cols="50"></textarea>
-    <br>
-    <button onclick="speichern()">Speichern</button>
-    <button onclick="loeschen()">Alle Notizen löschen</button>
+        <br>
 
-    <div id="notizen-container"></div>
+        <div class="box">
+            <h2>BafinInsider-CSV-Download</h2>
+            <button onclick="downloadCSV()">Download CSV BafinInsider</button>
+            <a id="csvDownloadLink" style="display:none;"></a>
+        </div>
 
+        <div class="box">
+            <h2>Notiz-Block</h2>
+            <label for="notiz">Notiz:</label>
+            <br>
+            <textarea id="notiz" rows="4" cols="50"></textarea>
+            <br>
+            <button onclick="speichern()">Speichern</button>
+            <button onclick="loeschen()">Alle Notizen löschen</button>
+            <div id="notizen-container"></div>
+        </div>
+    </div>
+
+    <div class="container">
+        <h2>Aktienliste</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Symbol</th>
+                    <th>Name</th>
+                    <th>Preis</th>
+                    <th>Änderung</th>
+                </tr>
+            </thead>
+            <tbody id="comments"></tbody>
+        </table>
+    </div>
+
+    <script src="Javascript/MSWKNReddit.js"></script>
     <script src="Javascript/notizen.js"></script>
     <script src="Javascript/Spreadrechner.js"></script>
     <script src="Javascript/BafinInsider.js"></script>
 </body>
-</html>
 
+</html>
