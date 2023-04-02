@@ -1,32 +1,62 @@
 ﻿Emittent;BaFin-ID;ISIN;Meldepflichtiger;Position / Status;Art des Instruments;Art des Geschäfts;Durchschnittspreis;Aggregiertes Volumen;Mitteilungsdatum;Datum des Geschäfts;Ort des Geschäfts;Datum der Aktivierung
-ENCAVIS AG;20000258;DE0006095003;Husmann, Dr. Christoph;Vorstand;Aktie;Kauf;14,26 EUR;28.520,00 EUR;29.03.2023;29.03.2023;XETRA;29.03.2023 15:52:03
-ENCAVIS AG;20000258;DE0006095003;Husmann, Dr. Christoph;Vorstand;Aktie;Kauf;14,54 EUR;21.591,32 EUR;29.03.2023;29.03.2023;XETRA;29.03.2023 15:52:03
-ENCAVIS AG;20000258;DE0006095003;Husmann, Dr. Christoph;Vorstand;Aktie;Kauf;14,53 EUR;21.800,70 EUR;29.03.2023;29.03.2023;XETRA;29.03.2023 15:52:03
-LEG Immobilien SE;40019594;DE000LEG1110;von Lackum, Lars;Vorstand;Aktie;Kauf;49,03 EUR;98.056,00 EUR;30.03.2023;29.03.2023;Tradegate;30.03.2023 14:01:01
+LPKF Laser & Electronics SE;40001761;DE0006450000;Richard, Jean-Michel;Aufsichtsrat;Aktie;Kauf;9,37 EUR;9.374,20 EUR;31.03.2023;31.03.2023;Xetra;31.03.2023 13:24:11
+sino Aktiengesellschaft;10117593;DE0005765507;Hillen, Ingo;Vorstand;Aktie;Kauf;31,77 EUR;38.795,70 EUR;31.03.2023;30.03.2023;Tradegate;31.03.2023 14:45:13
+sino Aktiengesellschaft;10117593;DE0005765507;Hillen, Ingo;Vorstand;Aktie;Kauf;31,56 EUR;16.914,00 EUR;31.03.2023;30.03.2023;Xetra;31.03.2023 14:45:13
+TUI AG;40001186;DE000TUAG1E4;Burling, David;Vorstand;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;31.03.2023;30.03.2023;;31.03.2023 14:45:13
+ENCAVIS AG;20000258;DE0006095003;ABACON CAPITAL GmbH;in enger Beziehung;Aktie;Kauf;15,06 EUR;753.000,00 EUR;30.03.2023;30.03.2023;XETRA;31.03.2023 11:43:07
 aap Implantate AG;40001831;DE000A3H2101;Hahn, Marek;Vorstand;Aktie;Sonstiges;1,40 EUR;52.920,00 EUR;30.03.2023;29.03.2023;;30.03.2023 13:49:39
 aap Implantate AG;40001831;DE000A3H2101;di Girolamo, Rubino;Vorstand;Aktie;Sonstiges;1,40 EUR;83.743,80 EUR;30.03.2023;29.03.2023;;30.03.2023 13:49:39
 aap Implantate AG;40001831;DE000A3H2101;Mierzejewska, Agnieszka;Vorstand;Aktie;Sonstiges;1,40 EUR;26.800,20 EUR;30.03.2023;29.03.2023;;30.03.2023 13:43:39
 GRENKE AG;40002178;DE000A161N30;Christ, Gilles;Vorstand;Aktie;Kauf;24,20 EUR;9.680,00 EUR;30.03.2023;29.03.2023;Xetra;30.03.2023 13:37:18
+ENCAVIS AG;20000258;DE0006095003;Husmann, Dr. Christoph;Vorstand;Aktie;Kauf;14,26 EUR;28.520,00 EUR;29.03.2023;29.03.2023;XETRA;29.03.2023 15:52:03
+ENCAVIS AG;20000258;DE0006095003;Husmann, Dr. Christoph;Vorstand;Aktie;Kauf;14,54 EUR;21.591,32 EUR;29.03.2023;29.03.2023;XETRA;29.03.2023 15:52:03
+ENCAVIS AG;20000258;DE0006095003;Husmann, Dr. Christoph;Vorstand;Aktie;Kauf;14,53 EUR;21.800,70 EUR;29.03.2023;29.03.2023;XETRA;29.03.2023 15:52:03
+Nexus AG;40002066;DE0005220909;Heilig, Ralf;Vorstand;Aktie;Sonstiges;51,30 EUR;513.000,00 EUR;31.03.2023;29.03.2023;;31.03.2023 12:49:22
+Eckert & Ziegler Strahlen- und Medizintechnik AG;40001731;DE0005659700;Eckert, Dr. Andreas;Vorstand;Aktie;Sonstiges;;;30.03.2023;29.03.2023;;31.03.2023 12:49:22
+Eckert & Ziegler Strahlen- und Medizintechnik AG;40001731;DE0005659700;Helmke, Dr. Lutz;Vorstand;Aktie;Sonstiges;;;30.03.2023;29.03.2023;;31.03.2023 12:49:22
+Eckert & Ziegler Strahlen- und Medizintechnik AG;40001731;DE0005659700;Hasselmann, Dr. Harald;Vorstand;Aktie;Sonstiges;;;30.03.2023;29.03.2023;;31.03.2023 12:49:22
+LEG Immobilien SE;40019594;DE000LEG1110;von Lackum, Lars;Vorstand;Aktie;Kauf;49,03 EUR;98.056,00 EUR;30.03.2023;29.03.2023;Tradegate;30.03.2023 14:01:01
 ENCAVIS AG;20000258;DE0006095003;Schmitz, Dr. Rolf Martin;Aufsichtsrat;Aktie;Kauf;14,40 EUR;10.083,50 EUR;30.03.2023;29.03.2023;Tradegate;30.03.2023 13:37:18
 ENCAVIS AG;20000258;DE0006095003;Schmitz, Dr. Rolf Martin;Aufsichtsrat;Aktie;Kauf;14,50 EUR;189.950,00 EUR;30.03.2023;29.03.2023;Tradegate;30.03.2023 13:37:18
+ENCAVIS AG;20000258;DE0006095003;Testorp Real Estate GmbH;in enger Beziehung;Aktie;Kauf;14,75 EUR;50.143,20 EUR;30.03.2023;29.03.2023;XETRA;31.03.2023 11:58:49
+InCity Immobilien AG;40005694;DE000A0HNF96;Realsoul Holding S.A.;in enger Beziehung;Aktie;Kauf;1,28 EUR;2.673,92 EUR;30.03.2023;29.03.2023;Xetra;31.03.2023 12:38:45
+aap Implantate AG;40001831;DE000A3H2101;Deepblue Holding AG;in enger Beziehung;Aktie;Sonstiges;1,40 EUR;249.999,40 EUR;30.03.2023;29.03.2023;;30.03.2023 13:43:39
 aap Implantate AG;40001831;DE000A3H2101;Merval AG;in enger Beziehung;Aktie;Sonstiges;1,40 EUR;140.000,00 EUR;30.03.2023;29.03.2023;;30.03.2023 13:43:39
 ENCAVIS AG;20000258;DE0006095003;ABACON CAPITAL GmbH;in enger Beziehung;Aktie;Kauf;14,77 EUR;1.476.981,61 EUR;30.03.2023;29.03.2023;XETRA;30.03.2023 13:37:18
-aap Implantate AG;40001831;DE000A3H2101;Deepblue Holding AG;in enger Beziehung;Aktie;Sonstiges;1,40 EUR;249.999,40 EUR;30.03.2023;29.03.2023;;30.03.2023 13:43:39
 Elmos Semiconductor SE;40001726;DE0005677108;Dienstuhl, Dr. Jan;Vorstand;Aktie;Sonstiges;;;30.03.2023;28.03.2023;;30.03.2023 13:49:39
 Elmos Semiconductor SE;40001726;DE0005677108;Meyer, Guido;Vorstand;Aktie;Sonstiges;;;30.03.2023;28.03.2023;;30.03.2023 13:49:39
 Elmos Semiconductor SE;40001726;DE0005677108;Schneider, Dr. Arne;Vorstand;Aktie;Sonstiges;;;30.03.2023;28.03.2023;;30.03.2023 13:49:39
+TUI AG;40001186;DE000TUAG1E4;Ebel, Helmut Reiner Sebastian;Vorstand;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;31.03.2023;28.03.2023;;31.03.2023 14:45:13
+TUI AG;40001186;DE000TUAG1E4;Kiep, Mathias;Vorstand;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;31.03.2023;28.03.2023;;31.03.2023 14:45:13
+TUI AG;40001186;DE000TUAG1E4;Krüger, Peter;Vorstand;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;31.03.2023;28.03.2023;;31.03.2023 14:35:43
+TUI AG;40001186;DE000TUAG1E4;Reiß, Sybille;Vorstand;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;31.03.2023;28.03.2023;;31.03.2023 14:35:43
+TUI AG;40001186;DE000TUAG1E4;Jakobi, Frank;Aufsichtsrat;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;31.03.2023;28.03.2023;;31.03.2023 14:35:43
+TUI AG;40001186;DE000TUAG1E4;Strempel, Anette;Aufsichtsrat;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;31.03.2023;28.03.2023;;31.03.2023 14:35:43
 RWE Aktiengesellschaft;40001211;DE0007037129;Brandt, Dr. Werner;Aufsichtsrat;Aktie;Kauf;38,24 EUR;107.068,90 EUR;29.03.2023;28.03.2023;XETRA;29.03.2023 12:41:17
+TUI AG;40001186;DE000TUAG1E4;Zetsche, Dr. Dieter;Aufsichtsrat;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;31.03.2023;28.03.2023;;31.03.2023 14:45:13
+TUI AG;40001186;DE000TUAG1E4;Muratovic, Mark;Aufsichtsrat;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;31.03.2023;28.03.2023;;31.03.2023 14:45:13
+TUI AG;40001186;DE000TUAG1E4;Flintermann, Wolfgang;Aufsichtsrat;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;31.03.2023;28.03.2023;;31.03.2023 14:45:13
+TUI AG;40001186;DE000TUAG1E4;Heinemann, Stefan;Aufsichtsrat;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;31.03.2023;28.03.2023;;31.03.2023 14:45:13
 MERCK Kommanditgesellschaft auf Aktien;40001134;DE0006599905;Garijo Lopez, Belén;Sonstige Führungsperson;Aktie;Kauf;172,63 EUR;109.795,83 EUR;29.03.2023;28.03.2023;XETRA;29.03.2023 12:41:17
 MERCK Kommanditgesellschaft auf Aktien;40001134;DE0006599905;Guenter, Peter;Sonstige Führungsperson;Aktie;Kauf;172,63 EUR;412.252,26 EUR;29.03.2023;28.03.2023;XETRA;29.03.2023 12:41:17
 MERCK Kommanditgesellschaft auf Aktien;40001134;DE0006599905;Heinzel, Dr. Matthias;Sonstige Führungsperson;Aktie;Kauf;172,63 EUR;290.717,26 EUR;29.03.2023;28.03.2023;XETRA;29.03.2023 12:41:17
-InCity Immobilien AG;40005694;DE000A0HNF96;Realsoul Holding S.A.;in enger Beziehung;Aktie;Kauf;1,28 EUR;3.582,72 EUR;29.03.2023;28.03.2023;Xetra;30.03.2023 13:37:18
 123fahrschule SE;40031053;DE000A2P4HL9;KlickVentures GmbH;in enger Beziehung;Aktie;Kauf;4,49 EUR;4.492,80 EUR;28.03.2023;28.03.2023;XETRA;28.03.2023 17:42:47
+TUI AG;40001186;DE000TUAG1E4;EVES Consulting GmbH;in enger Beziehung;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;31.03.2023;28.03.2023;;31.03.2023 14:45:13
+publity AG;10118215;DE0006972508;NEON Equity AG;in enger Beziehung;Aktie;Kauf;25,67 EUR;16.968,50 EUR;30.03.2023;28.03.2023;Xetra;31.03.2023 11:36:44
+InCity Immobilien AG;40005694;DE000A0HNF96;Realsoul Holding S.A.;in enger Beziehung;Aktie;Kauf;1,28 EUR;3.582,72 EUR;29.03.2023;28.03.2023;Xetra;30.03.2023 13:37:18
 sino Aktiengesellschaft;10117593;DE0005765507;Hillen, Ingo;Vorstand;Aktie;Kauf;31,60 EUR;14.220,00 EUR;27.03.2023;27.03.2023;Börse Stuttgart;28.03.2023 13:14:48
 sino Aktiengesellschaft;10117593;DE0005765507;Hillen, Ingo;Vorstand;Aktie;Kauf;31,40 EUR;6.123,00 EUR;27.03.2023;27.03.2023;Tradegate;28.03.2023 13:14:48
 RWE Aktiengesellschaft;40001211;DE0007037129;Krebber, Dr. Markus;Vorstand;Aktie;Kauf;37,86 EUR;378.603,05 EUR;27.03.2023;27.03.2023;Xetra;27.03.2023 14:17:33
+Neon Equity AG;40029518;DE000A3DW408;TO Holding 1 GmbH;in enger Beziehung;Aktie;Kauf;10,71 EUR;32.675,00 EUR;30.03.2023;27.03.2023;Xetra;31.03.2023 11:17:40
+Deutsche Konsum REIT-AG;40024326;DE000A14J1K1;Obotritia Capital KGaA;in enger Beziehung;Schuldtitel;Sonstiges;175,00 EUR;875.000,00 EUR;30.03.2023;27.03.2023;;31.03.2023 12:07:13
+DATAGROUP SE;40005058;DE000A0JC8S7;HHS Beteiligungsgesellschaft mbH;in enger Beziehung;Aktie;Kauf;70,30 EUR;5.624.000,00 EUR;28.03.2023;27.03.2023;;28.03.2023 17:30:41
 sino Aktiengesellschaft;10117593;DE0005765507;MMI Leisure & Capital Management GmbH;in enger Beziehung;Aktie;Kauf;31,20 EUR;3.931,20 EUR;27.03.2023;27.03.2023;Xetra;28.03.2023 13:14:48
 123fahrschule SE;40031053;DE000A2P4HL9;KlickVentures GmbH;in enger Beziehung;Aktie;Kauf;4,76 EUR;4.760,00 EUR;27.03.2023;27.03.2023;XETRA;27.03.2023 14:24:25
-DATAGROUP SE;40005058;DE000A0JC8S7;HHS Beteiligungsgesellschaft mbH;in enger Beziehung;Aktie;Kauf;70,30 EUR;5.624.000,00 EUR;28.03.2023;27.03.2023;;28.03.2023 17:30:41
+Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Försterweg Beteiligungs GmbH;in enger Beziehung;Aktie;Sonstiges;;;30.03.2023;27.03.2023;;31.03.2023 12:28:25
+Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Försterweg Beteiligungs GmbH;in enger Beziehung;Aktie;Kauf;6,70 EUR;722.239,90 EUR;30.03.2023;27.03.2023;;31.03.2023 12:28:25
+Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Capital KGaA;in enger Beziehung;Aktie;Verkauf;6,70 EUR;722.239,90 EUR;30.03.2023;27.03.2023;;31.03.2023 12:19:58
+Deutsche Konsum REIT-AG;40024326;DE000A14J1K1;Obotritia Capital KGaA;in enger Beziehung;Schuldtitel;Sonstiges;;;30.03.2023;27.03.2023;;31.03.2023 12:07:13
+publity AG;10118215;DE0006972508;NEON Equity AG;in enger Beziehung;Aktie;Kauf;25,80 EUR;24.794,20 EUR;30.03.2023;27.03.2023;Xetra;31.03.2023 11:36:44
 GRENKE AG;10121961;DE000A161N30;Hirsch, Dr. Sebastian;Vorstand;Aktie;Kauf;22,00 EUR;11.000,00 EUR;29.03.2023;24.03.2023;Xetra;29.03.2023 15:52:03
 Evonik Industries AG;40011953;DE000EVNK013;Wessel, Thomas;Vorstand;Aktie;Kauf;18,39 EUR;49.655,75 EUR;28.03.2023;24.03.2023;Tradegate;28.03.2023 17:30:41
 SGL Carbon SE;40001332;DE0007235301;Dippold, Thomas;Vorstand;Aktie;Kauf;8,17 EUR;99.693,52 EUR;27.03.2023;24.03.2023;;27.03.2023 16:19:16
@@ -36,16 +66,16 @@ RWE Aktiengesellschaft;40001211;DE0007037129;Sierau, Ullrich;Aufsichtsrat;Aktie;
 Rheinmetall Aktiengesellschaft;40002496;DE0007030009;Mielke, Dr. Michael;Aufsichtsrat;Aktie;Sonstiges;254,80 EUR;41.532,40 EUR;24.03.2023;24.03.2023;;27.03.2023 08:15:34
 Vonovia SE;40020637;DE000A1ML7J1;Ulbrich, Christian;Aufsichtsrat;Aktie;Kauf;16,95 EUR;169.500,00 EUR;24.03.2023;24.03.2023;XETRA;24.03.2023 15:24:42
 Vantage Towers AG;40030877;DE000A3H3LL2;Rivera, José;Sonstige Führungsperson;Aktie;Verkauf;33,50 EUR;7.571,00 EUR;27.03.2023;24.03.2023;XETRA;28.03.2023 17:00:23
+Neon Equity AG;40029518;DE000A3DW408;TO Holding 1 GmbH;in enger Beziehung;Aktie;Kauf;10,29 EUR;29.340,00 EUR;28.03.2023;24.03.2023;Xetra;28.03.2023 17:07:01
+NFON AG;40026829;DE000A0N4N52;Active Ownership Fund SICAV-FIS SCS;in enger Beziehung;Aktie;Kauf;6,54 EUR;2.137.762,50 EUR;28.03.2023;24.03.2023;XETRA;28.03.2023 17:42:47
+publity AG;10118215;DE0006972508;NEON Equity AG;in enger Beziehung;Aktie;Kauf;26,08 EUR;19.558,60 EUR;28.03.2023;24.03.2023;Xetra;28.03.2023 17:07:01
 sino Aktiengesellschaft;10117593;DE0005765507;MMI Leisure & Capital Management GmbH;in enger Beziehung;Aktie;Kauf;31,30 EUR;102.325,70 EUR;27.03.2023;24.03.2023;Xetra;28.03.2023 13:20:30
 Deutsche Konsum REIT-AG;40024326;DE000A14J1K1;Obotritia Capital KGaA;in enger Beziehung;Schuldtitel;Sonstiges;175,00 EUR;5.075.000,00 EUR;29.03.2023;24.03.2023;;29.03.2023 18:41:12
 VARTA AKTIENGESELLSCHAFT;40000882;DE000A0TGJ55;VGG Beteiligungen SE;in enger Beziehung;Aktie;Verkauf;23,80 EUR;28.079.851,18 EUR;24.03.2023;24.03.2023;;24.03.2023 15:43:08
 123fahrschule SE;40031053;DE000A2P4HL9;KlickVentures GmbH;in enger Beziehung;Aktie;Kauf;4,68 EUR;1.404,00 EUR;24.03.2023;24.03.2023;XETRA;24.03.2023 13:04:21
+NFON AG;40026829;DE000A0N4N52;Active Ownership Fund SICAV-FIS SCS;in enger Beziehung;Aktie;Kauf;6,54 EUR;2.137.762,50 EUR;30.03.2023;24.03.2023;;30.03.2023 14:01:01
 Deutsche Konsum REIT-AG;40024326;DE000A14J1K1;Obotritia Capital KGaA;in enger Beziehung;Schuldtitel;Sonstiges;;;29.03.2023;24.03.2023;;29.03.2023 18:41:12
 Enapter AG;20000275;DE000A255G02;BluGreen Company Limited;in enger Beziehung;Aktie;Sonstiges;;;28.03.2023;24.03.2023;;28.03.2023 17:42:47
-NFON AG;40026829;DE000A0N4N52;Active Ownership Fund SICAV-FIS SCS;in enger Beziehung;Aktie;Kauf;6,54 EUR;2.137.762,50 EUR;28.03.2023;24.03.2023;XETRA;28.03.2023 17:42:47
-publity AG;10118215;DE0006972508;NEON Equity AG;in enger Beziehung;Aktie;Kauf;26,08 EUR;19.558,60 EUR;28.03.2023;24.03.2023;Xetra;28.03.2023 17:07:01
-Neon Equity AG;40029518;DE000A3DW408;TO Holding 1 GmbH;in enger Beziehung;Aktie;Kauf;10,29 EUR;29.340,00 EUR;28.03.2023;24.03.2023;Xetra;28.03.2023 17:07:01
-NFON AG;40026829;DE000A0N4N52;Active Ownership Fund SICAV-FIS SCS;in enger Beziehung;Aktie;Kauf;6,54 EUR;2.137.762,50 EUR;30.03.2023;24.03.2023;;30.03.2023 14:01:01
 VERBIO Vereinigte BioEnergie AG;40005572;DE000A0JL9W6;Lüdtke, Prof. Dr. Oliver;Vorstand;Aktie;Sonstiges;55,75 EUR;1.607.450,46 EUR;28.03.2023;23.03.2023;;28.03.2023 17:36:57
 VERBIO Vereinigte BioEnergie AG;40005572;DE000A0JL9W6;Niesmann, Theodor;Vorstand;Aktie;Sonstiges;55,75 EUR;1.607.450,46 EUR;28.03.2023;23.03.2023;;28.03.2023 17:36:57
 VERBIO Vereinigte BioEnergie AG;40005572;DE000A0JL9W6;Sauter, Bernd;Vorstand;Aktie;Sonstiges;55,75 EUR;1.607.450,46 EUR;28.03.2023;23.03.2023;;28.03.2023 17:36:57
@@ -54,7 +84,7 @@ PVA TePla AG;40001817;DE0007461006;Ketter, Jalin;Vorstand;Aktie;Kauf;21,44 EUR;5
 JOST Werke AG;40023873;DE000JST4000;Gottschalk, Prof. Dr. Bernd;Aufsichtsrat;Aktie;Kauf;49,35 EUR;74.025,00 EUR;24.03.2023;23.03.2023;TRADEGATE;24.03.2023 13:44:16
 Ernst Russ AG;40003565;DE000A161077;Lorenz-Meyer, Robert;Aufsichtsrat;Aktie;Verkauf;5,38 EUR;269.000,00 EUR;24.03.2023;23.03.2023;;24.03.2023 12:58:43
 HAMBORNER REIT AG;40001026;DE000A3H2333;Böge, Claus-Matthias;Aufsichtsrat;Aktie;Kauf;7,05 EUR;10.575,00 EUR;24.03.2023;23.03.2023;;24.03.2023 10:07:45
-publity AG;10118215;DE0006972508;NEON Equity AG;in enger Beziehung;Aktie;Kauf;25,80 EUR;8.023,80 EUR;24.03.2023;23.03.2023;Xetra;27.03.2023 08:10:09
+Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Capital KGaA;in enger Beziehung;Aktie;Verkauf;6,90 EUR;478.266,60 EUR;27.03.2023;23.03.2023;;28.03.2023 17:42:47
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Babelsberger Beteiligungs GmbH;in enger Beziehung;Aktie;Kauf;6,90 EUR;4.695.229,20 EUR;27.03.2023;23.03.2023;;27.03.2023 16:54:20
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Alpha Invest GmbH;in enger Beziehung;Aktie;Sonstiges;;;27.03.2023;23.03.2023;;27.03.2023 16:54:20
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Alpha Invest GmbH;in enger Beziehung;Aktie;Kauf;6,90 EUR;478.266,60 EUR;27.03.2023;23.03.2023;;27.03.2023 16:54:20
@@ -62,8 +92,8 @@ Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Capital KGaA;in enger Be
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Babelsberger Beteiligungs GmbH;in enger Beziehung;Aktie;Sonstiges;;;27.03.2023;23.03.2023;;27.03.2023 16:54:20
 audius SE;40025224;NL0006129074;audius AG;in enger Beziehung;Aktie;Verkauf;16,00 EUR;1.940.000,00 EUR;27.03.2023;23.03.2023;;27.03.2023 14:05:24
 Neon Equity AG;40029518;DE000A3DW408;TO Holding 1 GmbH;in enger Beziehung;Aktie;Kauf;10,08 EUR;13.610,00 EUR;24.03.2023;23.03.2023;Xetra;27.03.2023 08:10:09
+publity AG;10118215;DE0006972508;NEON Equity AG;in enger Beziehung;Aktie;Kauf;25,80 EUR;8.023,80 EUR;24.03.2023;23.03.2023;Xetra;27.03.2023 08:10:09
 123fahrschule SE;40031053;DE000A2P4HL9;KlickVentures GmbH;in enger Beziehung;Aktie;Kauf;4,60 EUR;19.330,00 EUR;24.03.2023;23.03.2023;XETRA;24.03.2023 13:04:21
-Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Capital KGaA;in enger Beziehung;Aktie;Verkauf;6,90 EUR;478.266,60 EUR;27.03.2023;23.03.2023;;28.03.2023 17:42:47
 K+S Aktiengesellschaft;40001292;DE000KSAG888;Tröltzsch, Dr. Carin-Martina;Vorstand;Aktie;Kauf;19,53 EUR;48.034,21 EUR;23.03.2023;22.03.2023;XETRA;23.03.2023 11:10:45
 publity AG;10118215;DE0006972508;NEON Equity AG;in enger Beziehung;Aktie;Kauf;25,76 EUR;51.699,10 EUR;24.03.2023;22.03.2023;Xetra;27.03.2023 08:10:09
 Biofrontera AG;40005059;DE0006046113;Deutsche Balaton Aktiengesellschaft;in enger Beziehung;Aktie;Kauf;1,27 EUR;7.366,00 EUR;24.03.2023;22.03.2023;Xetra;24.03.2023 15:18:39
@@ -82,7 +112,6 @@ Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München;400014
 GRENKE AG;10121961;DE000A161N30;Rösler, Isabel;Vorstand;Aktie;Kauf;23,16 EUR;6.948,00 EUR;20.03.2023;20.03.2023;Tradegate;20.03.2023 15:49:22
 Deutsche Lufthansa Aktiengesellschaft;40001478;DE0008232125;Steenbergen, Remco;Vorstand;Aktie;Kauf;9,44 EUR;283.238,16 EUR;20.03.2023;20.03.2023;XETRA;20.03.2023 15:49:22
 HelloFresh SE;40024258;DE000A161408;Gärtner, Christian;Vorstand;Aktie;Kauf;15,55 EUR;31.107,20 EUR;20.03.2023;20.03.2023;Xetra;20.03.2023 15:49:22
-Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Capital KGaA;in enger Beziehung;Aktie;Verkauf;7,30 EUR;3.786.561,10 EUR;22.03.2023;20.03.2023;;22.03.2023 15:35:09
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Alpha Invest GmbH;in enger Beziehung;Aktie;Sonstiges;;;22.03.2023;20.03.2023;;22.03.2023 15:35:09
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Alpha Invest GmbH;in enger Beziehung;Aktie;Kauf;7,30 EUR;3.786.561,10 EUR;22.03.2023;20.03.2023;;22.03.2023 15:27:57
 Ströer SE & Co. KGaA;40012915;DE0007493991;APM Media GmbH & Co. KG;in enger Beziehung;Aktie;Sonstiges;80,00 EUR;8.000.000,00 EUR;22.03.2023;20.03.2023;;22.03.2023 13:09:12
@@ -95,6 +124,7 @@ Neon Equity AG;40029518;DE000A3DW408;TO Holding 1 GmbH;in enger Beziehung;Aktie;
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Alpha Invest GmbH;in enger Beziehung;Aktie;Verkauf;7,30 EUR;2.008.485,50 EUR;22.03.2023;20.03.2023;;22.03.2023 15:53:39
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Capital KGaA;in enger Beziehung;Aktie;Sonstiges;;;22.03.2023;20.03.2023;;22.03.2023 15:41:35
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Capital KGaA;in enger Beziehung;Aktie;Kauf;7,30 EUR;2.008.485,50 EUR;22.03.2023;20.03.2023;;22.03.2023 15:35:09
+Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Capital KGaA;in enger Beziehung;Aktie;Verkauf;7,30 EUR;3.786.561,10 EUR;22.03.2023;20.03.2023;;22.03.2023 15:35:09
 Vantage Towers AG;40030877;DE000A3H3LL2;Sommer, Christian;Vorstand;Aktie;Sonstiges;32,00 EUR;76.512,00 EUR;17.03.2023;17.03.2023;;17.03.2023 14:45:17
 Vantage Towers AG;40030877;DE000A3H3LL2;Reisten, Thomas;Vorstand;Aktie;Sonstiges;32,00 EUR;202.016,00 EUR;17.03.2023;17.03.2023;;17.03.2023 14:45:17
 Vantage Towers AG;40030877;DE000A3H3LL2;Badrinath, Vivek;Vorstand;Aktie;Sonstiges;32,00 EUR;791.264,00 EUR;17.03.2023;17.03.2023;;17.03.2023 14:45:17
@@ -209,10 +239,10 @@ HelloFresh SE;40024258;;TWG Ventures GmbH;in enger Beziehung;Derivat;Verkauf;1,3
 publity AG;10118215;DE0006972508;NEON Equity AG;in enger Beziehung;Aktie;Kauf;26,78 EUR;12.347,60 EUR;16.03.2023;14.03.2023;Xetra;17.03.2023 07:55:15
 Neon Equity AG;40029518;DE000A3DW408;TO Holding 1 GmbH;in enger Beziehung;Aktie;Kauf;10,99 EUR;21.975,00 EUR;16.03.2023;14.03.2023;Xetra;17.03.2023 07:50:01
 ABOUT YOU Holding SE;40031607;DE000A3CNK42;Ohana Group Hamburg GmbH;in enger Beziehung;Aktie;Sonstiges;;;16.03.2023;14.03.2023;;17.03.2023 07:28:25
+JDC Group AG;40005122;DE000A0B9N37;Grace Beteiligungs GmbH;in enger Beziehung;Aktie;Kauf;16,59 EUR;10.053,10 EUR;17.03.2023;14.03.2023;XETRA;17.03.2023 17:26:39
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Alpha Invest GmbH;in enger Beziehung;Aktie;Sonstiges;;;20.03.2023;14.03.2023;;20.03.2023 16:01:14
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Alpha Invest GmbH;in enger Beziehung;Aktie;Kauf;7,80 EUR;1.078.833,60 EUR;20.03.2023;14.03.2023;;20.03.2023 16:01:14
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Capital KGaA;in enger Beziehung;Aktie;Verkauf;7,80 EUR;1.078.833,60 EUR;17.03.2023;14.03.2023;;20.03.2023 13:38:11
-JDC Group AG;40005122;DE000A0B9N37;Grace Beteiligungs GmbH;in enger Beziehung;Aktie;Kauf;16,59 EUR;10.053,10 EUR;17.03.2023;14.03.2023;XETRA;17.03.2023 17:26:39
 Stabilus SE;40022271;DE000STAB1L8;Büchsner, Dr. Michael;Vorstand;Aktie;Kauf;59,36 EUR;29.680,00 EUR;14.03.2023;13.03.2023;XETRA;14.03.2023 14:31:33
 STRATEC SE;40001599;DE000STRA555;Wolfinger, Marcus;Vorstand;Aktie;Kauf;66,60 EUR;14.652,00 EUR;13.03.2023;13.03.2023;QUOTRIX;13.03.2023 13:17:58
 Schaeffler AG;50076405;DE000SHA0159;Bauer, Claus;Vorstand;Aktie;Sonstiges;6,50 EUR;104.000,00 EUR;15.03.2023;13.03.2023;Tradegate;17.03.2023 07:23:11
@@ -312,41 +342,9 @@ Deutsche Beteiligungs AG;40000951;DE000A1TNUT7;Hunecke, Jannick;Vorstand;Aktie;S
 Deutsche Beteiligungs AG;40000951;DE000A1TNUT7;Alzin, Tom;Vorstand;Aktie;Sonstiges;30,76 EUR;50.751,38 EUR;03.03.2023;03.03.2023;XETRA;07.03.2023 06:01:32
 Bayer Aktiengesellschaft;40001030;DE000BAY0017;Cousin, Ertharin;Aufsichtsrat;Aktie;Sonstiges;15,27 USD;74.059,50 USD;07.03.2023;03.03.2023;;07.03.2023 14:10:27
 Elmos Semiconductor SE;40001726;DE0005677108;Schellenberg, Sven-Olaf;Aufsichtsrat;Aktie;Verkauf;78,26 EUR;54.780,00 EUR;06.03.2023;03.03.2023;Tradegate;07.03.2023 06:01:32
-Neon Equity AG;40029518;DE000A3DW408;TO Holding 1 GmbH;in enger Beziehung;Aktie;Kauf;11,19 EUR;8.950,00 EUR;07.03.2023;03.03.2023;Xetra;08.03.2023 10:05:22
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Babelsberger Beteiligungs GmbH;in enger Beziehung;Aktie;Verkauf;7,90 EUR;1.374.157,60 EUR;08.03.2023;03.03.2023;;09.03.2023 10:06:24
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Capital KGaA;in enger Beziehung;Aktie;Sonstiges;;;20.03.2023;03.03.2023;;20.03.2023 16:01:14
 Deutsche Konsum REIT-AG;40024326;DE000A14KRD3;Obotritia Capital KGaA;in enger Beziehung;Aktie;Kauf;7,90 EUR;1.374.157,60 EUR;20.03.2023;03.03.2023;;20.03.2023 15:55:17
 publity AG;10118215;DE0006972508;NEON Equity AG;in enger Beziehung;Aktie;Kauf;27,23 EUR;24.589,90 EUR;07.03.2023;03.03.2023;Xetra;08.03.2023 10:10:57
 Neon Equity AG;40029518;DE000A3DW408;TO Holding 1 GmbH;in enger Beziehung;Aktie;Verkauf;11,00 EUR;1.100.000,00 EUR;07.03.2023;03.03.2023;;08.03.2023 10:05:22
-FRoSTA AG;40000841;DE0006069008;Ahlers, Felix;Vorstand;Aktie;Sonstiges;60,00 EUR;18.060,30 EUR;06.03.2023;02.03.2023;Börse Frankfurt;07.03.2023 06:01:32
-BASF SE;40000910;DE000BASF111;Maas-Brunner, Dr. Melanie;Vorstand;Aktie;Kauf;47,79 EUR;57.352,30 EUR;02.03.2023;02.03.2023;XETRA;07.03.2023 06:01:32
-Biofrontera AG;40005059;DE0006046113;Deutsche Balaton Aktiengesellschaft;in enger Beziehung;Aktie;Kauf;1,27 EUR;152,40 EUR;06.03.2023;02.03.2023;Berlin Tradegate;07.03.2023 14:10:27
-publity AG;10118215;DE0006972508;NEON Equity AG;in enger Beziehung;Aktie;Kauf;27,30 EUR;22.443,80 EUR;03.03.2023;02.03.2023;Xetra;07.03.2023 06:01:32
-DEUTSCHE BANK AKTIENGESELLSCHAFT;10100003;DE0005140008;Riley, Christiana;Vorstand;Aktie;Sonstiges;8,00 EUR;33.200,00 EUR;02.03.2023;01.03.2023;;03.03.2023 12:37:22
-Bayer Aktiengesellschaft;40001030;DE000BAY0017;Winkeljohann, Prof. Dr. Norbert;Aufsichtsrat;Aktie;Sonstiges;56,27 EUR;119.978,30 EUR;03.03.2023;01.03.2023;Xetra;03.03.2023 12:48:22
-Bayer Aktiengesellschaft;40001030;DE000BAY0017;Gansewendt, Dr. Barbara;Aufsichtsrat;Aktie;Sonstiges;56,27 EUR;31.626,55 EUR;03.03.2023;01.03.2023;Xetra;03.03.2023 12:48:22
-Bayer Aktiengesellschaft;40001030;DE000BAY0017;Baier, Horst;Aufsichtsrat;Aktie;Sonstiges;56,27 EUR;99.944,40 EUR;03.03.2023;01.03.2023;Xetra;03.03.2023 12:42:56
-Bayer Aktiengesellschaft;40001030;DE000BAY0017;Achleitner, Dr. Paul;Aufsichtsrat;Aktie;Kauf;56,27 EUR;99.944,40 EUR;03.03.2023;01.03.2023;Xetra;03.03.2023 12:42:56
-pferdewetten.de AG;40002028;DE000A30V8X3;Baumgarten, Lars-Wilhelm;Aufsichtsrat;Schuldtitel;Sonstiges;1.000,00 EUR;100.000,00 EUR;06.03.2023;01.03.2023;;07.03.2023 06:01:32
-ADTRAN Holdings, Inc.;50087419;;Stanton, Thomas R.;Sonstige Führungsperson;Aktie;Sonstiges;0,00 USD;0,00 USD;06.03.2023;01.03.2023;;07.03.2023 06:01:32
-ADTRAN Holdings, Inc.;50087419;;Wilson Jr, James Denson;Sonstige Führungsperson;Aktie;Sonstiges;0,00 USD;0,00 USD;06.03.2023;01.03.2023;;07.03.2023 06:01:32
-ADTRAN Holdings, Inc.;50087419;;Wilson Jr, James Denson;Sonstige Führungsperson;Aktie;Sonstiges;0,00 USD;0,00 USD;06.03.2023;01.03.2023;;07.03.2023 06:01:32
-ADTRAN Holdings, Inc.;50087419;;Stanton, Thomas R.;Sonstige Führungsperson;Aktie;Sonstiges;0,00 USD;0,00 USD;06.03.2023;01.03.2023;;07.03.2023 06:01:32
-publity AG;10118215;DE0006972508;NEON Equity AG;in enger Beziehung;Aktie;Kauf;27,40 EUR;17.344,20 EUR;02.03.2023;01.03.2023;Xetra;02.03.2023 15:40:56
-InCity Immobilien AG;40005694;DE000A0HNF96;Realsoul Holding S.A.;in enger Beziehung;Aktie;Kauf;1,28 EUR;448,00 EUR;02.03.2023;01.03.2023;Xetra;03.03.2023 12:37:22
-Erlebnis Akademie AG;40024088;DE0001644565;Wühr, Martina;in enger Beziehung;Aktie;Sonstiges;9,80 EUR;98.000,00 EUR;02.03.2023;01.03.2023;;03.03.2023 12:32:08
-The Social Chain AG;40023002;DE000A1YC996;FORTUNA Beteiligungsgesellschaft mbH;in enger Beziehung;Aktie;Sonstiges;;;02.03.2023;01.03.2023;;02.03.2023 15:47:12
-aap Implantate AG;40001831;;Hahn, Marek;Vorstand;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;01.03.2023;28.02.2023;;02.03.2023 15:08:04
-flatexDEGIRO AG;10117887;XS2577874782;Aldach, René;Vorstand;Schuldtitel;Kauf;93,50 EUR;187.000,00 EUR;01.03.2023;28.02.2023;Börse Stuttgart;02.03.2023 14:56:19
-BASF SE;40000910;DE000BASF111;Kamieth, Dr. Markus;Vorstand;Aktie;Kauf;48,44 EUR;145.314,90 EUR;28.02.2023;28.02.2023;XETRA;02.03.2023 13:25:12
-pferdewetten.de AG;40002028;DE000A30V8X3;Dickinger, Jochen;Aufsichtsrat;Schuldtitel;Sonstiges;1.000,00 EUR;240.000,00 EUR;02.03.2023;28.02.2023;;03.03.2023 12:32:08
-flatexDEGIRO AG;10117887;DE000FTG1111;Heinrich, Dr. Matthias;Sonstige Führungsperson;Aktie;Kauf;7,51 EUR;37.550,00 EUR;02.03.2023;28.02.2023;XETRA;02.03.2023 15:35:43
-flatexDEGIRO AG;10117887;DE000FTG1111;Heinrich, Dr. Matthias;Sonstige Führungsperson;Aktie;Kauf;7,46 EUR;7.590,61 EUR;02.03.2023;28.02.2023;XETRA;02.03.2023 15:40:56
-flatexDEGIRO AG;10117887;DE000FTG1111;Heinrich, Dr. Matthias;Sonstige Führungsperson;Aktie;Kauf;7,44 EUR;14.885,38 EUR;02.03.2023;28.02.2023;XETRA;02.03.2023 15:40:56
-Deutsche Telekom AG;40000239;DE0005557508;Freitag, Roland;in enger Beziehung;Aktie;Kauf;21,25 EUR;31.882,50 EUR;28.02.2023;28.02.2023;xetra;02.03.2023 13:25:12
-aap Implantate AG;40001831;;Langner Asset Management GmbH;in enger Beziehung;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;01.03.2023;28.02.2023;;02.03.2023 15:13:04
-aap Implantate AG;40001831;;Deepblue Holding AG;in enger Beziehung;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;01.03.2023;28.02.2023;;02.03.2023 15:13:04
-aap Implantate AG;40001831;;Merval AG;in enger Beziehung;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;01.03.2023;28.02.2023;;02.03.2023 15:13:04
-aap Implantate AG;40001831;;Krebs, Jürgen;in enger Beziehung;Anderes auf Aktie/schuldtitel bez. FI;Sonstiges;0,00 EUR;0,00 EUR;01.03.2023;28.02.2023;;02.03.2023 15:08:04
-publity AG;10118215;DE0006972508;NEON Equity AG;in enger Beziehung;Aktie;Kauf;27,40 EUR;8.494,00 EUR;02.03.2023;28.02.2023;Xetra;02.03.2023 15:40:56
-MBB SE;40004863;DE000A0ETBQ4;MBB Capital Management GmbH;in enger Beziehung;Aktie;Kauf;79,58 EUR;658.138,80 EUR;01.03.2023;28.02.2023;XETRA;02.03.2023 15:13:04
+Neon Equity AG;40029518;DE000A3DW408;TO Holding 1 GmbH;in enger Beziehung;Aktie;Kauf;11,19 EUR;8.950,00 EUR;07.03.2023;03.03.2023;Xetra;08.03.2023 10:05:22

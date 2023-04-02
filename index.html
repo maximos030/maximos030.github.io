@@ -1,41 +1,43 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Excel-Datei als Tabelle anzeigen und CSV herunterladen</title>
-		<script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
-		<script src="Javascript/BafinDownload.js"></script>
-		<script src="Javascript/BafinXLSXeingabe.js"></script>
-    <script src="script.js"></script>
-		<link rel="stylesheet" type="text/css" href="CSS/Bafintabelle.css">
-	  </head>
-	  
+
+<head>
+    <title>Aktien</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    
+    <link rel="stylesheet" href="css/mainpage.css">
+</head>
+
 <body>
 
-  <h1>Excel-Datei als Tabelle anzeigen und CSV herunterladen</h1>
-  <input type="file" onchange="handleFileSelect(event)">
-  <div id="table-container"></div>
-  <button onclick="downloadCSV()">Download CSV</button>
-  <a id="csvDownloadLink" style="display:none"></a>
-  <button onclick="showPrevRows()">Vorherige 2 Zeilen</button>
-  <button onclick="showNextRows()">Nächsten 2 Zeilen</button>
-  <h1>Meine Tabelle</h1>
-	<form>
-		<label for="date">Datum:</label>
-		<input type="date" id="date" name="date"><br><br>
-		<label for="amount">Betrag:</label>
-		<input type="number" id="amount" name="amount"><br><br>
-		<input type="button" value="Hinzufügen" onclick="addRow()">
-		<input type="button" value="Tabelle leeren" onclick="clearTable()">
-	</form>
-	<br>
-	<table id="myTable">
-		<tr>
-			<th>Datum</th>
-			<th>Betrag</th>
-			<th></th>
-		</tr>
-	</table>
-  <script src="Javascript/Einzahlungstabelle.js"></script> 
+    <label for="geldkurs">Geldkurs:</label>
+    <input type="number" id="geldkurs"><br><br>
+    <label for="briefkurs">Briefkurs:</label>
+    <input type="number" id="briefkurs"><br><br>
+    <button onclick="berechneSpread()">Spread berechnen</button>
+    <br>
+    <br>
+    <p id="spread_euro"></p>
+    <p id="spread_prozent"></p>
+
+
+    <button onclick="downloadCSV()">Download CSV BafinInsider</button>
+    <a id="csvDownloadLink" style="display:none;"></a>
+    <br>
+    <br>
+    <label for="notiz">Notiz:</label>
+    <br>
+    <textarea id="notiz" rows="4" cols="50"></textarea>
+    <br>
+    <button onclick="speichern()">Speichern</button>
+    <button onclick="loeschen()">Alle Notizen löschen</button>
+
+    <div id="notizen-container"></div>
+
+    <script src="Javascript/notizen.js"></script>
+    <script src="Javascript/Spreadrechner.js"></script>
+    <script src="Javascript/BafinInsider.js"></script>
 </body>
 </html>
 
