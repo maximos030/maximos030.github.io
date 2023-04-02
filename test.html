@@ -1,28 +1,31 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Knock-Out Zertifikat Rechner</title>
-  </head>
-  <body>
-    <h1>Spread-Rechner</h1>
-    <label for="geldkurs">Geldkurs:</label>
-    <input type="number" id="geldkurs"><br><br>
-    <label for="briefkurs">Briefkurs:</label>
-    <input type="number" id="briefkurs"><br><br>
-    <button onclick="berechneSpread()">Spread berechnen</button><br><br>
-	<p>Spread in Prozent = (Briefkurs - Geldkurs) / Briefkurs * 100%</p>
-    <p id="spread_euro"></p>
-    <p id="spread_prozent"></p>
+<head>
+    <title>Reddit API Beispiel</title>
+</head>
+<body>
+    <div id="comments"></div>
     <script>
-		function berechneSpread() {
-		const geldkurs = parseFloat(document.getElementById("geldkurs").value);
-		const briefkurs = parseFloat(document.getElementById("briefkurs").value);
-		const spread_euro = briefkurs - geldkurs;
-		const spread_prozent = (spread_euro / briefkurs) * 100;
-		document.getElementById("spread_euro").innerHTML = "Spread in Euro: " + spread_euro.toFixed(2);
-		document.getElementById("spread_prozent").innerHTML = "Spread in Prozent: " + spread_prozent.toFixed(2) + "%";
-		}
+        // Definieren des Benutzernamens
+        const username = "MSWKN";
+        
+        // URL zur Reddit-API
+        const url = `https://www.reddit.com/user/${username}/comments.json?limit=100`;
 
-	</script>
-  </body>
+        // HTTP-GET-Anfrage an die Reddit-API senden
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                // Durchlaufen und Drucken der Kommentare
+                const comments = data.data.children;
+                for (let comment of comments) {
+                    const body = comment.data.body;
+                    const div = document.createElement("div");
+                    div.innerHTML = body;
+                    document.getElementById("comments").appendChild(div);
+                }
+            })
+            .catch(error => console.error(error));
+    </script>
+</body>
 </html>
